@@ -1,0 +1,12 @@
+Quero escrever um artigo técnico com o tema: “Como a Inteligência Artificial pode ajudar no desenvolvimento de software”.
+
+Gere a estrutura do artigo com os seguintes elementos:
+1. Introdução envolvente
+2. Explicação dos principais usos da IA no desenvolvimento de software (como automação, geração de código e teste automatizado)
+3. Benefícios para desenvolvedores e equipes (como produtividade, qualidade e colaboração)
+4. Desafios e limitações atuais
+5. Dicas para quem quer começar a usar IA no desenvolvimento
+6. Conclusão com tom inspirador
+7. Call to Action para o leitor
+
+O artigo deve ser claro, profissional, e com linguagem acessível para iniciantes.
